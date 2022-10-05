@@ -1,8 +1,8 @@
 # THE SELF-TAUGHT COMPUTER SCIENTIST
 ## The beginner's guide to data structures and algorithms
-`But in JavaScript this time`
+<hr>
 
----
+### A summary of what I learned from this book along with some examples and exercises completed in JavaScript
 
 The self-taught Computer Scientist by Cory Althoff is a fantastic book that could also be called "Data Structures and Algorithms for Dummies".
 
